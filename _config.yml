@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: XIAO # the main title
+title: 生本教具 # the main title
 
-tagline: Demo # it will display as the subtitle
+tagline: 一切以学生为根本！ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: 生本教具（浙江）有限公司
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
